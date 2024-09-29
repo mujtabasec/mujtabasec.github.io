@@ -4,7 +4,7 @@
 
 prod=false
 command="bundle exec jekyll s -l"
-host="mujtaba.github.io"
+host="127.0.0.1"
 
 help() {
   echo "Usage:"
