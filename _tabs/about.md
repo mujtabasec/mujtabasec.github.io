@@ -9,8 +9,8 @@ I’m Syed Ahmad Mujtaba, a Security Researcher, Penetration Tester, and Bug Bou
 ### Follow me on: 
 
 - [Twitter](https://twitter.com/mujtabasec)
-- [Facebook](https://facebook.com/mujtabasec).
-- [Github](https://github.com/mujtabasec).
+- [Facebook](https://facebook.com/mujtabasec)
+- [Github](https://github.com/mujtabasec)
 
 ### Other Profiles
-- [HackerOne](https://twitter.com/mujta3a_)
+- [HackerOne](https://hackerone.com/mujta3a_)
