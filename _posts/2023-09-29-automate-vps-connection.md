@@ -2,7 +2,7 @@
 title: How to Automate VPS Login with Bash Script 
 author:
   name: mujtabasec
-  link: httpsp://x.com/mujtabasec
+  link: https://twitter.com/mujtabasec
 # date: 9/26/2024
 categories: [ automation, bugbounty ]
 tags: [ automation, bugbounty, bash, linux ]
@@ -65,4 +65,4 @@ vps
 
 I hope you find this write-up helpful. Thank you for reading!
 
-Follow me On [Twitter](httpsp://x.com/mujtabasec) 
+Follow me On [Twitter](https://twitter.com/mujtabasec) 
